@@ -1,9 +1,60 @@
-<mxfile host="app.diagrams.net" modified="2023-10-24T19:00:34.558Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 OPR/103.0.0.0" version="22.0.7" etag="oDu-bZH61f7kvLtL3_O8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-24T19:10:05.504Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 OPR/103.0.0.0" etag="b8SfE3zrkPUuipI1pqo5" version="22.0.7" type="github">
   <diagram name="Page-1" id="QN8iubG9WmK6HqKUjjX3">
-    <mxGraphModel>
+    <mxGraphModel dx="996" dy="607" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="5-pzZkE__YIr2Cu8xcxP-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="235" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5-pzZkE__YIr2Cu8xcxP-6" value="END USER" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="140" y="230" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="5-pzZkE__YIr2Cu8xcxP-7" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="215" width="150" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="5-pzZkE__YIr2Cu8xcxP-8" value="Voice Assisted Mental Healthcare System" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="420" y="250" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5-pzZkE__YIr2Cu8xcxP-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="235" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5-pzZkE__YIr2Cu8xcxP-10" value="Mental Health Assistance and Content Database" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="680" y="250" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5-pzZkE__YIr2Cu8xcxP-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.001;entryY=0.32;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="5-pzZkE__YIr2Cu8xcxP-6" target="5-pzZkE__YIr2Cu8xcxP-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5-pzZkE__YIr2Cu8xcxP-14" value="" style="endArrow=classic;html=1;rounded=0;exitX=-0.015;exitY=0.656;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="5-pzZkE__YIr2Cu8xcxP-7" target="5-pzZkE__YIr2Cu8xcxP-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="330" as="sourcePoint" />
+            <mxPoint x="300" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5-pzZkE__YIr2Cu8xcxP-15" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.993;exitY=0.368;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="5-pzZkE__YIr2Cu8xcxP-7" target="5-pzZkE__YIr2Cu8xcxP-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="580" y="230" as="sourcePoint" />
+            <mxPoint x="630" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5-pzZkE__YIr2Cu8xcxP-16" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1.009;entryY=0.64;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="5-pzZkE__YIr2Cu8xcxP-9" target="5-pzZkE__YIr2Cu8xcxP-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480" y="340" as="sourcePoint" />
+            <mxPoint x="530" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5-pzZkE__YIr2Cu8xcxP-17" value="Recording Voice" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="310" y="215" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5-pzZkE__YIr2Cu8xcxP-18" value="Response" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="310" y="280" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5-pzZkE__YIr2Cu8xcxP-19" value="Fetching Data" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="580" y="215" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5-pzZkE__YIr2Cu8xcxP-21" value="Data Retrieval" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="580" y="285" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
